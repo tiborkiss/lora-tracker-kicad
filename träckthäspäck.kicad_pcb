@@ -113,7 +113,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(grid_origin 100 100)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f55f)
@@ -713,7 +712,7 @@
 				)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "100n"
 			(at 59.621798 54.93468 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -904,7 +903,7 @@
 				)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "Battery_Cell AA"
 			(at 0 1 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1798,7 +1797,7 @@
 				)
 			)
 		)
-		(property "Value" "SMAJ3V3"
+		(property "Value" "SMBJ3V3-E3/52"
 			(at 0 2.6 90)
 			(layer "F.Fab")
 			(uuid "072bf62d-6ac2-4a9a-b193-5aa1ae39c0b7")
@@ -2372,7 +2371,7 @@
 				)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "100n"
 			(at 59.621798 54.93468 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -2601,7 +2600,7 @@
 				)
 			)
 		)
-		(property "Value" "33n"
+		(property "Value" "NC"
 			(at 59.621798 54.93468 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -2792,7 +2791,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04_Pin"
+		(property "Value" "NC"
 			(at 3 3.35 90)
 			(layer "F.Fab")
 			(uuid "5aaacc00-73af-4f60-8965-64e760ed9d2d")
@@ -3147,7 +3146,7 @@
 				)
 			)
 		)
-		(property "Value" "BSS84"
+		(property "Value" "SLMT320V3CP"
 			(at 0 2.4 90)
 			(layer "F.Fab")
 			(uuid "c9dcc3bc-de29-4ce0-a9cd-09dcfa09b970")
@@ -4596,7 +4595,7 @@
 				)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "Battery_Cell AA"
 			(at 0 1 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5793,7 +5792,7 @@
 				)
 			)
 		)
-		(property "Value" "BSS84"
+		(property "Value" "SLMT320V3CP"
 			(at 0 2.4 90)
 			(layer "F.Fab")
 			(uuid "feaa1d92-6dee-49d5-9674-630956e113c8")
@@ -6695,7 +6694,7 @@
 				)
 			)
 		)
-		(property "Value" "NC"
+		(property "Value" "1p0"
 			(at 59.621798 54.93468 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -6886,7 +6885,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "H3LIS331DL"
+		(property "Value" "NC (H3LIS331DL)"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7896,7 +7895,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "NC"
 			(at 59.621798 54.93468 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -8539,7 +8538,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "750mA"
+		(property "Value" "0ZCJ0025FF2E"
 			(at -1.905 1.905 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9085,7 +9084,7 @@
 				)
 			)
 		)
-		(property "Value" "NC"
+		(property "Value" "GSEZ7B002"
 			(at 59.621798 54.93468 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -9333,7 +9332,7 @@
 				)
 			)
 		)
-		(property "Value" "NC"
+		(property "Value" "SHORT"
 			(at -183.557475 93.878202 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -10554,7 +10553,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02_Pin"
+		(property "Value" "NC"
 			(at 0 4.11 90)
 			(layer "F.Fab")
 			(uuid "4074de67-5ad9-4974-8863-9c35e9f8364a")
@@ -11091,7 +11090,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "SHORT"
 			(at -183.557475 93.878202 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -11460,7 +11459,7 @@
 			)
 		)
 		(property ki_fp_filters "*0804-8*")
-		(path "/415ed68a-339f-48d7-9e5d-56c99f80da92")
+		(path "/3c8d7f56-8439-42ee-9a7a-6889a4610433")
 		(sheetname "/")
 		(sheetfile "träckthäspäck.kicad_sch")
 		(units
@@ -11638,7 +11637,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "NC"
 			(at 59.621798 54.93468 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -11862,7 +11861,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "1k"
 			(at -183.557475 93.878202 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -13461,7 +13460,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "NC"
 			(at -183.557475 93.878202 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -14845,7 +14844,7 @@
 				)
 			)
 		)
-		(property "Value" "NC"
+		(property "Value" "1p0"
 			(at 59.621798 54.93468 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -15112,7 +15111,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "NC"
 			(at 59.621798 54.93468 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -15339,7 +15338,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "NC"
 			(at -183.557475 93.878202 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -15496,7 +15495,7 @@
 			(size 0.4 0.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "3.3V")
+			(net "NC")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(uuid "a842584a-e66e-4785-8b92-90fe09e333a5")
@@ -15577,7 +15576,7 @@
 				)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "100n"
 			(at 59.621798 54.93468 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -16193,7 +16192,7 @@
 				)
 			)
 		)
-		(property "Value" "AP7375-33SA-7"
+		(property "Value" "AP7333-33SAG-7"
 			(at 0 2.4 90)
 			(layer "F.Fab")
 			(uuid "58963a6e-f1c2-4ffa-8e8b-faa4e49068f3")
@@ -17095,7 +17094,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2k2"
 			(at -183.557475 93.878202 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -17464,7 +17463,7 @@
 			)
 		)
 		(property ki_fp_filters "*0804-8*")
-		(path "/cb54ea1b-b1a7-4e79-8a7a-bad562e6dd44")
+		(path "/574423f7-afad-41d0-960f-5cfeb32a992a")
 		(sheetname "/")
 		(sheetfile "träckthäspäck.kicad_sch")
 		(units
@@ -18388,7 +18387,7 @@
 				)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "100n"
 			(at 59.621798 54.93468 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -18620,7 +18619,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "NC"
 			(at 59.621798 54.93468 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -19137,7 +19136,7 @@
 				)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "100n"
 			(at 59.621798 54.93468 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -20038,7 +20037,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "IN-S63AT5A"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "0f90ad3a-dec3-464f-b036-993849e6946f")
@@ -22082,7 +22081,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2k2"
 			(at -183.557475 93.878202 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -23098,7 +23097,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "SHORT"
 			(at -183.557475 93.878202 135)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -23339,7 +23338,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "NC"
 			(at 59.621798 54.93468 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -23770,7 +23769,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "IN-S63AT5A"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "931e41c9-5cff-411e-ac80-85557a2c7cad")
@@ -26035,7 +26034,7 @@
 				)
 			)
 		)
-		(property "Value" "NC"
+		(property "Value" "GSEZ7B002"
 			(at 59.621798 54.93468 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -26270,7 +26269,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "220"
 			(at -183.557475 93.878202 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -26509,7 +26508,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2k2"
 			(at -183.557475 93.878202 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -26700,7 +26699,7 @@
 				)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "Battery_Cell AA"
 			(at 0 1 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26866,7 +26865,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BMI270"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28058,7 +28057,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x28"
+		(property "Value" "5051102891"
 			(at 0 -6.35 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28100,7 +28099,8 @@
 			(unit
 				(name "A")
 				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
-					"16" "17" "18" "19" "20" "21" "22" "23" "24" "25" "26" "27" "28"
+					"16" "17" "18" "19" "20" "21" "22" "23" "24" "25" "26" "27" "28" "P1"
+					"P2"
 				)
 			)
 		)
@@ -28781,6 +28781,8 @@
 			(size 2 1.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
+			(pinfunction "P1_P1")
+			(pintype "passive")
 			(uuid "0d01c3fa-3081-446e-81f4-c5eb33bee7a9")
 		)
 		(pad "P2" smd rect
@@ -28788,6 +28790,8 @@
 			(size 2 1.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
+			(pinfunction "P2_P2")
+			(pintype "passive")
 			(uuid "7e1d5a72-f724-47fb-9575-4648b4ea6b81")
 		)
 		(embedded_fonts no)
@@ -28868,7 +28872,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2k2"
 			(at -183.557475 93.878202 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -29353,7 +29357,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CON_TRACE"
+		(property "Value" "NC"
 			(at 0 -7.46 327)
 			(layer "B.Fab")
 			(uuid "e8ab86b8-51fc-4292-a2b5-de9ce9292ffa")
@@ -30484,7 +30488,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "RotaryEncoder_Switch"
+		(property "Value" "PEC12R-4222F-S0024"
 			(at 0 -8.5 90)
 			(layer "B.Fab")
 			(uuid "e80c41e4-73de-45ad-bbaa-767c02aec0ab")
@@ -30531,7 +30535,7 @@
 		(units
 			(unit
 				(name "A")
-				(pins "A" "C" "B" "S1" "S2")
+				(pins "A" "C" "B" "SH" "S1" "S2")
 			)
 		)
 		(attr through_hole)
@@ -31033,6 +31037,8 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net "GND")
+			(pinfunction "SH_SH")
+			(pintype "passive")
 			(uuid "41d67e73-5991-4428-991f-99b862ac78b3")
 		)
 		(pad "SH" thru_hole oval
@@ -31042,6 +31048,8 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net "GND")
+			(pinfunction "SH_SH")
+			(pintype "passive")
 			(uuid "ac04c1c0-2fb5-483e-a644-6fbf1483cbfb")
 		)
 		(embedded_fonts no)
@@ -31393,6 +31401,19 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e29c5ecf-c2a6-4a5a-a60b-e63bbbd55d9a")
+	)
+	(gr_text "GND of not in schematics because of missing symbol-pins J6 & SW3\n"
+		(at 58.4 142.4 0)
+		(layer "F.Cu")
+		(uuid "bcabff3b-8f26-4472-84ca-d6dd89326733")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 109.250002 71.250002)

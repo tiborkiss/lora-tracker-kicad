@@ -509,7 +509,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "same_local_global_power": "warning",
@@ -727,12 +727,90 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE",
+          "name": "PACKAGE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PART FIELD 1",
+          "name": "PART FIELD 1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PRICE",
+          "name": "PRICE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "REM",
+          "name": "REM",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Type",
+          "name": "Sim.Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TYPE",
+          "name": "TYPE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURERPARTNUMBER",
+          "name": "MANUFACTURERPARTNUMBER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "HELPURL",
+          "name": "HELPURL",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -777,7 +855,7 @@
         "uuid": "78eb30f0-d17e-4508-b8c2-ce4fd75ad532"
       }
     ],
-    "used_designators": "#G1-6,#G23-25,#PWR1-123,#PWR217,#PWR221-306,#PWR641-642,#PWR645-646,#PWR649-650,#PWR655-663,#PWR687-696,#U$1-2,#U$18,#U$34,#U$37-38,1,AE1,ANT1-2,ANT5-6,BT1-3,C1-44,C133-159,C626-636,C638-639,C658-659,D1-11,D105-106,D601-602,DS1,F1,J1-6,J8-9,J107,K1-3,L1-11,L606-615,LS1,Q1-5,R1-24,R146-163,SW3,U1-7,USB1,X1,X602",
+    "used_designators": "#G1-6,#G23-25,#PWR1-125,#PWR217,#PWR221-306,#PWR641-642,#PWR645-646,#PWR649-650,#PWR655-663,#PWR687-696,#U$1-2,#U$18,#U$34,#U$37-38,1,AE1,ANT1-2,ANT5-6,BT1-3,C1-44,C133-159,C626-636,C638-639,C658-659,D1-11,D105-106,D601-602,DS1,F1,J1-6,J8-9,J107,K1-3,L1-11,L606-615,LS1,Q1-5,R1-24,R146-163,SW3,U1-7,USB1,X1,X602",
     "variants": []
   },
   "sheets": [
